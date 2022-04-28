@@ -8,9 +8,8 @@ const Start = ({ onQuizStart }) => {
     <div className="card">
       <div className="card-content">
         <div className="content">
-          {disable ? "" : (<p>Please Login and play game</p>)}
           <h1>Start the quiz</h1>
-          <p>Good luck!</p>
+          {disable ? ( <p>Good luck!</p>) : (<p>Please Login and play game</p>)}
           <button className="button is-info is-medium" disabled={!disable} onClick={onQuizStart}>Start</button>
         </div>
       </div>
