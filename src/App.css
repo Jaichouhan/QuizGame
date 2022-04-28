@@ -1,0 +1,64 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100%;
+}
+
+.App .card {
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+}
+
+label.radio {
+  display: block;
+  text-align: left;
+  padding: 15px;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+label.radio+.radio {
+  margin-left: 0;
+}
+
+label.radio input {
+  margin-right: 10px;
+}
+.footer_name{
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  background-color: #3298dc;
+  padding: 5px 0px;
+}
+.Login{
+  width: 100%;
+  padding: 0px 20px;
+}
+.Login_h2{
+  font-size: 20px;
+  font-weight: 600;
+}
+.Login_data{
+   display: flex;
+   flex-direction: column;
+   padding: 20px 0px;
+}
+.Login_data label{
+  font-size: 15px;
+  font-weight: 600;
+}
+.Login_data input{
+  width: 100%;
+  border: none;
+  outline: none;
+  
+}

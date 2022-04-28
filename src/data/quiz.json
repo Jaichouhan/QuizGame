@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "question": "What is the capital of India ?",
+      "choices": ["New Delhi", "jaipur", "alwar", "kota"],
+      "answer": "New Delhi"
+    },
+    {
+      "question": "In which decade was the American Institute of Electrical Engineers (AIEE) founded ?",
+      "choices": ["1850s", "1880s", "1930s", "1950s"],
+      "answer": "1880s"
+    },
+    {
+      "question": "What is part of a database that holds only one type of information ?",
+      "choices": ["Report", "Field ", "Record ", "File"],
+      "answer": "Field"
+    },
+    {
+      "question": "'OS' computer abbreviation usually means ?",
+      "choices": ["Order of Significance", "Open Software", "Operating System", "Optical Sensor"],
+      "answer": "Operating System"
+    },
+    {
+      "question": "In which decade with the first transatlantic radio broadcast occur ?",
+      "choices": ["1850s", "1860s", "1870s", "1900s"],
+      "answer": "1900s"
+    },
+    {
+      "question": "'.MOV' extension refers usually to what kind of file ?",
+      "choices": ["Image file", "Animation/movie file", "MS Office document", "Audio file"],
+      "answer": "Animation/movie file"
+    },
+    {
+      "question": "Which is a type of Electrically-Erasable Programmable Read-Only Memory ?",
+      "choices": ["Flash", "Flange", "Fury", "FRAM"],
+      "answer": "Flash"
+    },
+    {
+      "question": "'.MPG' extension refers usually to what kind of file ?",
+      "choices": ["WordPerfect Document file", "MS Office document", "Image file", "Animation/movie file"],
+      "answer": "Animation/movie file"
+    },
+    {
+      "question": "ICICI is the name of a ?",
+      "choices": ["chemical industry", "bureau", "corporation", "financial institution"],
+      "answer": "financial institution"
+    }
+  ]
+}
